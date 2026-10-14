@@ -1,0 +1,5 @@
+<decoder name="sshd-session">
+<program_name>^sshd-session</program_name>
+<parent>sshd</parent>
+</decoder>
+
